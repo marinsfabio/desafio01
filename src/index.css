@@ -1,0 +1,6 @@
+body {
+  display: flex;
+  flex-direction: column;
+  background-color: #F3F5F7;
+  margin: 0;
+}
